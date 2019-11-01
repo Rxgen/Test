@@ -1,0 +1,12 @@
+body {
+    background-image:url(shirt.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.my {
+    background-color:black;
+    Width:100%;
+    height:40vh;
+    margin-top:100px;
+
+}
